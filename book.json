@@ -6,7 +6,7 @@
       "description": "This is the best book ever.",
       "author": "Paul Jähne",
       "site_url": "https://sethosii.gitbooks.io/githubtest/",
-      "feed_url": "https://sethosii.gitbooks.io/githubtest/rss.xml"
+      "feed_url": "https://sethosii.gitbooks.io/githubtest/rss.xml",
       "managingEditor": "writer@book.org (Denys Dovhan)",
       "webMaster": "webmaster@book.org (Denys Dovhan)",
       "categories": [
